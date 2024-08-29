@@ -24,8 +24,8 @@ Customer: Is it too loose?
 Salesperson: No, no. I mean, we brought an item. So, we have compared it. It differs from brand to brand. The steering is a bit tight in the Volkswagen, but it depends on the company. In the Tata, it is much smoother. I can turn it with one finger. 
 Customer: What is the vibration? Light vibration? 
 Customer: Clutch in the lower gear is vibrating. Do you want to try? 
-Salseperon: No, you stop here near the tree. We will check the engine and boot space. 
-Custoemr: No, you want to try once? 
+Salesperson: No, you stop here near the tree. We will check the engine and boot space. 
+Customer: No, you want to try once? 
 Salesperson: No, it's okay. You can see the engine from the inside. Start the engine from the inside. 
 Salesperson: It is not in gear. It started. You can see the power of the accelerator. It is 1.2. It is a powerful engine. 
 Customer: No, you stop here. You can turn the car. 
